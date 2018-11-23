@@ -1,2 +1,2 @@
 # Web1
-learning how to develop website
+Learning how to develop website
